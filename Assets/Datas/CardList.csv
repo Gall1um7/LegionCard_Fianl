@@ -1,0 +1,12 @@
+#,ID,Name,Attack,HP
+monster,0,Human Soldier,22,90
+monster,1,Musketeer,28,75
+monster,2,Human Cavalry,32,110
+monster,3,Spellbreaker,30,85
+monster,4,Giant,50,150
+monster,5,Mage,36,95
+monster,6,Witch,34,90
+monster,7,Priest,20,100
+monster,8,Swordsman,42,80
+monster,9,Gryphon,45,140
+monster,10,Mercenary,30,100
